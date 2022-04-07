@@ -1,6 +1,5 @@
-const envList = [{"envId":"这里写自己的envId","alias":"cloud1"}]
-const isMac = false
 module.exports = {
-    envList,
-    isMac
+  envList: [{
+    envId:'hello-cloudbase-2gycgib957cb0b49'
+  }]
 }
